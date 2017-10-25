@@ -1,0 +1,11 @@
+Package: CEPSKAT
+Type: Package
+Title: Finding rare variant associations for extreme phenotype samples.
+Version: 1.0
+Date: 2012-04-26
+Author: Ian Barnett
+Maintainer: Ian Barnett <ibarnett@hsph.harvard.edu>
+Depends: SKAT
+Description: Under extreme phenotype sampling on a normally distributed phenotype, CEPSKAT can harness the continuous information to gain power over analogous dichotomizing methods.
+License: GPL-3
+Packaged: 2012-04-30 16:07:37 UTC; Ian

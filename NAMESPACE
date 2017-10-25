@@ -1,0 +1,3 @@
+export(CEP_Theoretical_Power,SKAT_Null_Model_CEP)
+
+import(SKAT)
