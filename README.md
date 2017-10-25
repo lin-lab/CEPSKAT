@@ -1,6 +1,6 @@
 # CEPSKAT
 
-CEPSKAT extends the SKAT framework to the setting of continuous extreme phenotype samples. This repository contains the code for the R package for CEPSKAT. For Windows, download the compiled binary version instead. Consult the help files in the package for instruction and examples of usage.
+CEPSKAT extends the SKAT framework to the setting of continuous extreme phenotype samples. This repository contains the code for the R package for CEPSKAT. For Windows, download the [compiled binary version](https://content.sph.harvard.edu/xlin/dat/CEPSKAT_1.0.zip) instead. Consult the help files in the package for instruction and examples of usage.
 
 ## References
 
